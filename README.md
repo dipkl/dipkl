@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dipkl
+- 👋 Hi, I’m @malong-lab
 - 👀 I’m interested in studying
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on 
